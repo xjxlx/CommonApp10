@@ -1,0 +1,3 @@
+
+rootProject.name = "Apphelper2"
+include ':app'
